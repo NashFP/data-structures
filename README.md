@@ -16,4 +16,4 @@ Wikipedia... https://en.wikipedia.org/wiki/Binary_search_tree
 
 ## Play along!
 
-Contribute your solutions by adding a folder name {algorithm+}+{your handle}+{your language} such as "binary-search-tree+tdunnington+kotlin".
+Contribute your solutions by adding a folder name {algorithm}+{your handle}+{your language} such as "binary-search-tree+tdunnington+kotlin".
